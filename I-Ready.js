@@ -1,4 +1,4 @@
-# This is the code for I-Ready dont copy this part copy the code starting from Javascript:function below
+//This is the code for I-Ready dont copy this part copy the code starting from Javascript:function below
 
 
 
